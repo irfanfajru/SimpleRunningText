@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    background-color: black;
+    color: red;
+    display: flex;
+    font-size:300pt;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+
+marquee{
+    margin: auto;
+}
